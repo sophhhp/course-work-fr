@@ -1,1 +1,1 @@
-Verbal associations test for french with users's blank 
+Verbal associations test bot for french with users's blank 
